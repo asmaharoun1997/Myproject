@@ -1,10 +1,10 @@
 /* Change le fond de la page en rose */
 body {
-    background-color: pink;
+    background-color: yellow;
   }
   
   /* Change le texte des balises <h1> en orange */
   h1 {
-    color: blue;
+    color: purple;
   }
   
